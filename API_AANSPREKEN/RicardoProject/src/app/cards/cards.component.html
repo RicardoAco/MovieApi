@@ -1,0 +1,32 @@
+
+<!-- <div style="display:inline-block" *ngFor="let card of aCards.cards">
+  <div style="display:inline-block">
+    <img [src]="card.imageUrl" alt="">
+  </div>  
+</div> -->
+<div style="display: grid; grid-template-columns: auto auto ;">
+    
+    <p-button  (click)="Back()" style="text-align: right; padding: 1em" label="BACK"></p-button>
+    <p-button  (click)="Next()" style="text-align: left; padding: 1em"  label="NEXT"></p-button>
+    
+</div>
+
+
+<div *ngIf="aCards" class="kaart" style="margin-left: 145px">
+      <p-card class="contentcard" *ngFor="let card of aCards.cards" subtitle="Subtitle" [style]="{width: '340px'}" styleClass="ui-card-shadow">
+        <p-header>
+          <h2 style="text-align: center">{{card.name}}</h2>
+          
+          <div *ngIf="card.imageUrl; else notFound" >
+            <img [src]="card.imageUrl" alt="">
+          </div>
+          
+          <ng-template #notFound>
+            <img src="https://cdn.browshot.com/static/images/not-found.png" alt="">
+          </ng-template>
+
+        </p-header>
+        <p-footer>{{card.text}}</p-footer>
+      </p-card>
+</div>
+

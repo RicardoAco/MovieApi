@@ -1,0 +1,14 @@
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\bin\Debug\netcoreapp2.1\QuotesApi.deps.json
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\bin\Debug\netcoreapp2.1\QuotesApi.runtimeconfig.json
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\bin\Debug\netcoreapp2.1\QuotesApi.runtimeconfig.dev.json
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\bin\Debug\netcoreapp2.1\QuotesApi.dll
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\bin\Debug\netcoreapp2.1\QuotesApi.pdb
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.csprojAssemblyReference.cache
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.RazorAssemblyInfo.cache
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.RazorAssemblyInfo.cs
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.AssemblyInfo.cs
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.RazorTargetAssemblyInfo.cache
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.dll
+C:\Users\LAPTOP\Desktop\Cloud_API\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.pdb

@@ -1,0 +1,14 @@
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\bin\Release\netcoreapp2.1\MovieApi.deps.json
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\bin\Release\netcoreapp2.1\MovieApi.runtimeconfig.json
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\bin\Release\netcoreapp2.1\MovieApi.runtimeconfig.dev.json
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\bin\Release\netcoreapp2.1\MovieApi.dll
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\bin\Release\netcoreapp2.1\MovieApi.pdb
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\obj\Release\netcoreapp2.1\MovieApi.csprojAssemblyReference.cache
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\obj\Release\netcoreapp2.1\MovieApi.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\obj\Release\netcoreapp2.1\MovieApi.RazorAssemblyInfo.cache
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\obj\Release\netcoreapp2.1\MovieApi.RazorAssemblyInfo.cs
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\obj\Release\netcoreapp2.1\MovieApi.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\obj\Release\netcoreapp2.1\MovieApi.AssemblyInfo.cs
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\obj\Release\netcoreapp2.1\MovieApi.RazorTargetAssemblyInfo.cache
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\obj\Release\netcoreapp2.1\MovieApi.dll
+C:\Users\LAPTOP\Documents\GitHub\Ricardo_CloudApi\MY_API\QuotesApi\QuotesApi\obj\Release\netcoreapp2.1\MovieApi.pdb

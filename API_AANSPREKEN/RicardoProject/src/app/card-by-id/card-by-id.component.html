@@ -1,0 +1,16 @@
+<input [(ngModel)]="id"> 
+<button (click)="SearchId(id)">Search by id</button> 
+
+<div *ngIf="id" class="kaart" style="margin-left: 145px">
+  <div *ngIf="singleCard">
+    <p-card class="contentcard" subtitle="Subtitle" [style]="{width: '340px'}" styleClass="ui-card-shadow">
+        <p-header>
+          <h2 style="text-align: center">{{singleCard.card.name}}</h2>
+          <img [src]="singleCard.card.imageUrl" alt="">
+        </p-header>
+      <p-footer>{{singleCard.card.text}}</p-footer>
+    </p-card>
+  </div>
+</div>
+
+<h2 *ngIf="!id">Search a card</h2>

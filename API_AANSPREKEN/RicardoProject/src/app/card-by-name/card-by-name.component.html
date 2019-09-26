@@ -1,0 +1,22 @@
+<input [(ngModel)]="name"> 
+<button (click)="SearchName(name)">Search by name</button> 
+
+<div *ngIf="aCards" class="kaart" style="margin-left: 145px">
+    <p-card class="contentcard" *ngFor="let card of aCards.cards" subtitle="Subtitle" [style]="{width: '340px'}" styleClass="ui-card-shadow">
+      <p-header>
+        <h2 style="text-align: center">{{card.name}}</h2>
+        
+        <div *ngIf="card.imageUrl; else notFound" >
+          <img [src]="card.imageUrl" alt="">
+        </div>
+        
+        <ng-template #notFound>
+          <img src="https://cdn.browshot.com/static/images/not-found.png" alt="">
+        </ng-template>
+
+      </p-header>
+      <p-footer>{{card.text}}</p-footer>
+    </p-card>
+</div>
+  
+  <h2 *ngIf="!name">Search a card</h2>

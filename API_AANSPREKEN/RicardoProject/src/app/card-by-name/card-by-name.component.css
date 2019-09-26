@@ -1,0 +1,9 @@
+.kaart{ 
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contentcard{
+    display:flex;
+    padding: 30px;
+}

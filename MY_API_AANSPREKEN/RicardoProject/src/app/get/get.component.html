@@ -1,0 +1,20 @@
+
+<div style="padding: 1em; display: grid; justify-items: center">
+  <button (click)="GetMovie()"style="width: 10em" label="Get movies" pButton type="button" class="ui-button-raised ui-button-rounded"></button>
+</div>
+
+<div *ngIf="aMovie">
+    <p-card *ngFor="let movie of aMovie" subtitle="Subtitle" [style]="{width: '340px'}" styleClass="ui-card-shadow">
+
+      <p-header>
+        <h2 style="text-align: center">{{movie.id}}</h2>
+        <h2 style="text-align: center">{{movie.title}}</h2>
+        <h2 style="text-align: center">{{movie.director}}</h2>
+        <h2 style="text-align: center">{{movie.year}}</h2>
+        <h2 style="text-align: center">{{movie.genre}}</h2>
+      </p-header>
+      
+      <p-footer>{{movie.description}}</p-footer>
+
+    </p-card>
+</div>
