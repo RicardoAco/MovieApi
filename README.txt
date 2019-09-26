@@ -1,3 +1,5 @@
+De API wordt gehost via google clouds, ook is er een Angular project om deze API aan te roepen.
+
 MY API:
 
 GET ALL:
